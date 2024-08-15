@@ -1,0 +1,5 @@
+#This is a machine learning model that will predict the numbers in the "digits" folder
+#To train the file properly you will need to raise the epochs, read the comments left at the end of "Write,py"
+#The program is about 60% accurate, raising Epochs and recreating model would raise accuracy.
+#Hope you enjoy!
+#Kahmar Stathum
