@@ -15,3 +15,5 @@ in the same file.
 Afterewards comment everything how it was and replace the loading code with your new model. Afterwards try again, to
 get it more accurate you might want to also write better looking numbers, or change the neural network used.
 
+To use the code, use the code I've made in Write.py and use it in your IDE of choice. Just remember to follow the documentation I've given.
+
